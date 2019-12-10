@@ -12,5 +12,5 @@
 .rspec_status
 
 *.iml
-.idea
+.idea/
 target
